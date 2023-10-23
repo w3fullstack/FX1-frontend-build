@@ -1,0 +1,216 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_1bd06564"
+  },
+  {
+    "name": "account",
+    "path": "/account",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\account.vue",
+    "chunkName": "pages/account",
+    "children": [
+      {
+        "name": "account-linked-accounts",
+        "path": "linked-accounts",
+        "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\account\\\\linked-accounts.vue",
+        "chunkName": "pages/account/linked-accounts",
+        "_name": "_d7a4ba48"
+      },
+      {
+        "name": "account-settings",
+        "path": "settings",
+        "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\account\\\\settings.vue",
+        "chunkName": "pages/account/settings",
+        "_name": "_77e17851"
+      }
+    ],
+    "_name": "_01f1c4a4"
+  },
+  {
+    "name": "boss-membership",
+    "path": "/boss-membership",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\boss-membership.vue",
+    "chunkName": "pages/boss-membership",
+    "_name": "_6a1c3037"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_6452f3be"
+  },
+  {
+    "name": "create-new-password",
+    "path": "/create-new-password",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\create-new-password.vue",
+    "chunkName": "pages/create-new-password",
+    "_name": "_d4a2a54c"
+  },
+  {
+    "name": "error",
+    "path": "/error",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\error.vue",
+    "chunkName": "pages/error",
+    "_name": "_5595c649"
+  },
+  {
+    "name": "explore",
+    "path": "/explore",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\explore.vue",
+    "chunkName": "pages/explore",
+    "_name": "_7510eb14"
+  },
+  {
+    "name": "forgot-password",
+    "path": "/forgot-password",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\forgot-password.vue",
+    "chunkName": "pages/forgot-password",
+    "_name": "_7b39a086"
+  },
+  {
+    "name": "jackpot",
+    "path": "/jackpot",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\jackpot.vue",
+    "chunkName": "pages/jackpot",
+    "_name": "_a7a0fdd2"
+  },
+  {
+    "name": "leagues-and-clubs",
+    "path": "/leagues-and-clubs",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\leagues-and-clubs.vue",
+    "chunkName": "pages/leagues-and-clubs",
+    "_name": "_47cf005f"
+  },
+  {
+    "name": "locker-room",
+    "path": "/locker-room",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\locker-room\\\\index.vue",
+    "chunkName": "pages/locker-room/index",
+    "_name": "_f104911e"
+  },
+  {
+    "name": "mentions",
+    "path": "/mentions",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\mentions\\\\index.vue",
+    "chunkName": "pages/mentions/index",
+    "_name": "_192f25ea"
+  },
+  {
+    "name": "messages",
+    "path": "/messages",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\messages.vue",
+    "chunkName": "pages/messages",
+    "children": [
+      {
+        "name": "messages-channel",
+        "path": ":channel?",
+        "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\messages\\\\_channel.vue",
+        "chunkName": "pages/messages/_channel",
+        "_name": "_9eb0bdc2"
+      }
+    ],
+    "_name": "_57d25b9b"
+  },
+  {
+    "name": "privacy",
+    "path": "/privacy",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "_name": "_25029189"
+  },
+  {
+    "name": "signin",
+    "path": "/signin",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\signin.vue",
+    "chunkName": "pages/signin",
+    "_name": "_69949e9e"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_4067f1b2"
+  },
+  {
+    "name": "terms-conditions",
+    "path": "/terms-conditions",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\terms-conditions.vue",
+    "chunkName": "pages/terms-conditions",
+    "_name": "_2c8f990d"
+  },
+  {
+    "name": "token",
+    "path": "/token",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\token.vue",
+    "chunkName": "pages/token",
+    "_name": "_4a604dba"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index",
+    "_name": "_273f7db0"
+  },
+  {
+    "name": "locker-room-explore",
+    "path": "/locker-room/explore",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\locker-room\\\\explore\\\\index.vue",
+    "chunkName": "pages/locker-room/explore/index",
+    "_name": "_c8963560"
+  },
+  {
+    "name": "user-invite",
+    "path": "/user/invite",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\user\\\\invite.vue",
+    "chunkName": "pages/user/invite",
+    "_name": "_85ae23ba"
+  },
+  {
+    "name": "locker-room-slug",
+    "path": "/locker-room/:slug",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\locker-room\\\\_slug\\\\index.vue",
+    "chunkName": "pages/locker-room/_slug/index",
+    "_name": "_88d2a38e"
+  },
+  {
+    "name": "mentions-id",
+    "path": "/mentions/:id",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\mentions\\\\_id\\\\index.vue",
+    "chunkName": "pages/mentions/_id/index",
+    "_name": "_00b36d20"
+  },
+  {
+    "name": "locker-room-slug-live-channel",
+    "path": "/locker-room/:slug?/live/:channel",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\locker-room\\\\_slug\\\\live\\\\_channel\\\\index.vue",
+    "chunkName": "pages/locker-room/_slug/live/_channel/index",
+    "_name": "_e60f64ee"
+  },
+  {
+    "name": "locker-room-slug-channel",
+    "path": "/locker-room/:slug?/:channel",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\locker-room\\\\_slug\\\\_channel\\\\index.vue",
+    "chunkName": "pages/locker-room/_slug/_channel/index",
+    "_name": "_6dec1496"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_11cfa813"
+  },
+  {
+    "name": "Sport-leagueCode-game-slug",
+    "path": "/:Sport/:leagueCode?/:game?/:slug?",
+    "component": "D:\\\\MyWork\\\\GC\\\\FX1_Git\\\\FX1-frontend\\\\pages\\\\_Sport\\\\_leagueCode\\\\_game\\\\_slug.vue",
+    "chunkName": "pages/_Sport/_leagueCode/_game/_slug",
+    "_name": "_84d5b200"
+  }
+]
